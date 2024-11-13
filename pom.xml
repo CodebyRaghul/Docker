@@ -8,10 +8,10 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dockerautomation</groupId>
-	<artifactId>DockerAutomation</artifactId>
+	<groupId>com.dockerautomations</groupId>
+	<artifactId>DockerAutomations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DockerAutomation</name>
+	<name>DockerAutomations</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
